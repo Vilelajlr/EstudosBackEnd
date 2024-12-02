@@ -1,2 +1,4 @@
 Nome: Jose Leandro Vilela
 cpf: 111.111.111-00
+idade: 19
+altura: 1.79m
