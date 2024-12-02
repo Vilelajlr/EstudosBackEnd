@@ -4,3 +4,4 @@ idade: 19
 altura: 1.79m
 cidade: Monte Carmelo MG
 Pai: Brasil
+Cor de Cabelo: Castanho
